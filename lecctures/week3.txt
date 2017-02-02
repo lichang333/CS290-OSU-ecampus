@@ -1,4 +1,4 @@
-Week 3 content
+Week 3 content:
 http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-functions-objects/js-functions-objects.html
 
 Activity: JS Environment
