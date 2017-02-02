@@ -1,2 +1,0 @@
-http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-functions-objects/js-scope-context.html
-http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-functions-objects/js-objects.html
