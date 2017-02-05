@@ -40,5 +40,4 @@ Extra credit:
 Make the non-header rows alternate colors. To accomplish this you will need to use a pseudo-class called :nth-of-type()
 
 Here is a picture of a site meeting the requirements (NOTE: There is a 2nd, identical form below the GET form that was cut off. It is the same in every way except it submits via POST instead of GET) :
-example:
-(http://i.imgur.com/pmieJmb.png?1)
+[example](http://i.imgur.com/pmieJmb.png?1)
