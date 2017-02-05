@@ -24,7 +24,7 @@ Its background should be blue.
 It should take up 3/4 of the parent divs width and should be centered.
 Create two forms. One should submit via a post, the other via a get, they should have identical content.
 
-They should submit to http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php to better facilitate testing.
+They should submit to [this link](http://classes.engr.oregonstate.edu/eecs/winter2015/cs290-400/tools/class-content/form_tests/check_request.php) to better facilitate testing.
 There should be 4 input types
 A text input with a name attribute of 'text_input'
 A number input with a name attribute of 'numerical_input'
