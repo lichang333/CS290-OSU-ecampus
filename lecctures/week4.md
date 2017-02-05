@@ -1,13 +1,13 @@
 ## Week 4 Content
 > http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-functions-objects/js-functions-objects.html
 
-### 1.Exercise: Fixing Closure Loop
+### 1. Exercise: Fixing Closure Loop
 Do the activity in the Scope and Context (http://classes.engr.oregonstate.edu/eecs/fall2015/cs290-400/content/core-content/js-functions-objects/js-scope-context.html) section. You need to fix bug with a loop and closures. Note you need to add a line that actually calls testList(); because there is no button like on the site to execute the code.
 
 This is a pass/fail assignment based on submitting some code that looks like you gave it a good shot.
 
-### 2.HW Assignment: Higher-Order Functions and Objects
-his assignment is graded based on correctness and will require you to use higher-order functions to sort automobiles. The description is below and can also be found here  (http://jsfiddle.net/wolfordj/rmm2r6ky/)on jsFiddle. You should submit a single .js file called automobile.js which when run with node.js using the command "node automobile.js" produces the described results. You must make use of  higher-order functions to sort the cars. You should not, for example, create entirely separate functions each with dedicated loops to sort the cars. You will need a loop (or potentially more than one loop depending on your sorting algorithm of choice) in the sortArr function but that is pretty much it.
+### 2. HW Assignment: Higher-Order Functions and Objects
+his assignment is graded based on correctness and will require you to use higher-order functions to sort automobiles. The description is below and can also be found [here](http://jsfiddle.net/wolfordj/rmm2r6ky/)on jsFiddle. You should submit a single .js file called automobile.js which when run with node.js using the command "node automobile.js" produces the described results. You must make use of  higher-order functions to sort the cars. You should not, for example, create entirely separate functions each with dedicated loops to sort the cars. You will need a loop (or potentially more than one loop depending on your sorting algorithm of choice) in the sortArr function but that is pretty much it.
 
 function Automobile( year, make, model, type ){
     this.year = year; //integer (ex. 2001, 1995)
