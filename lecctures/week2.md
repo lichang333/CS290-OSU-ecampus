@@ -1,7 +1,8 @@
-Week 2 Content:
-https://oregonstate.instructure.com/courses/1616237/modules/items/17117415
+## Week 2 Content
+> https://oregonstate.instructure.com/courses/1616237/modules/items/17117415
 
-HW Assignment: HTML/CSS:
+### HW Assignment: HTML/CSS
+
 This week you will be making a simple web page. You will submit a .zip file to Canvas which contains exactly two files, content.html and style.css. content.html will have all of the html content and will link to the style.css style-sheet.
 
 In this page you should do the following:
