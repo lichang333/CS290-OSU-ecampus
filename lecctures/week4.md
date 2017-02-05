@@ -7,7 +7,7 @@ Do the activity in the [Scope and Context](http://classes.engr.oregonstate.edu/e
 This is a pass/fail assignment based on submitting some code that looks like you gave it a good shot.
 
 ### 2. HW Assignment: Higher-Order Functions and Objects
-his assignment is graded based on correctness and will require you to use higher-order functions to sort automobiles. The description is below and can also be found [here] (http://jsfiddle.net/wolfordj/rmm2r6ky/)on jsFiddle. You should submit a single .js file called automobile.js which when run with node.js using the command "node automobile.js" produces the described results. You must make use of  higher-order functions to sort the cars. You should not, for example, create entirely separate functions each with dedicated loops to sort the cars. You will need a loop (or potentially more than one loop depending on your sorting algorithm of choice) in the sortArr function but that is pretty much it.
+his assignment is graded based on correctness and will require you to use higher-order functions to sort automobiles. The description is below and can also be found [here] (http://jsfiddle.net/wolfordj/rmm2r6ky/) on jsFiddle. You should submit a single .js file called automobile.js which when run with node.js using the command "node automobile.js" produces the described results. You must make use of  higher-order functions to sort the cars. You should not, for example, create entirely separate functions each with dedicated loops to sort the cars. You will need a loop (or potentially more than one loop depending on your sorting algorithm of choice) in the sortArr function but that is pretty much it.
 
 function Automobile( year, make, model, type ){
     this.year = year; //integer (ex. 2001, 1995)
