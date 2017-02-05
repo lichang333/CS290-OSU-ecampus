@@ -1,8 +1,8 @@
-http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-html/js-html.html
+> http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-html/js-html.html
 
 
 
-1. HW Assignment: DOM and Events
+### 1. HW Assignment: DOM and Events
 
 For this assignment you should submit a single zip file that contains the following two files:
 
@@ -40,7 +40,7 @@ Note: When generating content for the page you will not get credit for simply us
 Previous Next
 
 
-2.How-To Guide
+### 2.How-To Guide
 
 Overview
 For this assignment you should do two things.
@@ -170,6 +170,6 @@ World Bank Climate API: https://datahelpdesk.worldbank.org/knowledgebase/article
 Mycroft AI: https://adapt.mycroft.ai/ (Links to an external site.)
 
 
-3.How-To proposal
+### 3.How-To proposal
 
 Please upload your proposal on Canvas.  Note that if you choose topics from the "white list", you do not need to get approval from TA on Piazza.  Otherwise, you are suggested to get approval of your topic before you submit the proposal.
