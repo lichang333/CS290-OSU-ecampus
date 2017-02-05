@@ -2,7 +2,7 @@
 > http://eecs.oregonstate.edu/ecampus-video/CS290/core-content/js-functions-objects/js-functions-objects.html
 
 ### 1. Exercise: Fixing Closure Loop
-Do the activity in the Scope and Context (http://classes.engr.oregonstate.edu/eecs/fall2015/cs290-400/content/core-content/js-functions-objects/js-scope-context.html) section. You need to fix bug with a loop and closures. Note you need to add a line that actually calls testList(); because there is no button like on the site to execute the code.
+Do the activity in the [Scope and Context](http://classes.engr.oregonstate.edu/eecs/fall2015/cs290-400/content/core-content/js-functions-objects/js-scope-context.html) section. You need to fix bug with a loop and closures. Note you need to add a line that actually calls testList(); because there is no button like on the site to execute the code.
 
 This is a pass/fail assignment based on submitting some code that looks like you gave it a good shot.
 
