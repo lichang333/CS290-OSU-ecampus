@@ -18,6 +18,6 @@ The other should be a form that submits to http://httpbin.org/post.
 
 This from should submit asynchronously via a POST. It needs to send a content-type of application/json (you can also experiment with other content-types like applcation/x-www-form-urlencoded). You should display the data you get back (which should match the data you send). It will be stored as a string in the data field of the JSON encoded string returned from the server.
 
-If you run into trouble you can use a tool like: https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo (Links to an external site.)
+If you run into trouble you can use a tool like: https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo 
 
 which will let you submit data manually via a GUI to check what the output looks like.
