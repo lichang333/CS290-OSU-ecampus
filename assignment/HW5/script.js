@@ -33,7 +33,7 @@ function Create_Table(){
   var element1 = document.createElement("input");
   // Assign attribute value to button.
   element1.type = "button";
-  element1.value = "Up";
+  element1.value = "Up ↑";
   // On clicking function up
   element1.onclick = function() {
     var current=table.rows[rowIndex].cells[cellIndex];
@@ -51,7 +51,7 @@ function Create_Table(){
   // Creating button Down
   var element1 = document.createElement("input");
   element1.type = "button";
-  element1.value = "Down";
+  element1.value = "Down ↓";
   element1.name = "Down";
   element1.onclick = function() {
     var current=table.rows[rowIndex].cells[cellIndex];
@@ -69,7 +69,7 @@ function Create_Table(){
   // Creating button Left
   var element1 = document.createElement("input");
   element1.type = "button";
-  element1.value = "Left";
+  element1.value = "Left ←";
   element1.name = "Left";
   element1.onclick = function() {
     var current=table.rows[rowIndex].cells[cellIndex];
@@ -88,7 +88,7 @@ function Create_Table(){
   // Creating button Right
   var element1 = document.createElement("input");
   element1.type = "button";
-  element1.value = "Right";
+  element1.value = "Right →";
   element1.name = "Right";
 
   element1.onclick = function() {
